@@ -20,3 +20,11 @@ If you're using an environment like Glitch that focuses on HTML, be sure to open
 If you're using an environment like Repl.it that focuses on scripting languages, you should be able to push "play" or "run" and see the "Script Running" confirmation in the terminal.
 
 Once you've confirmed that the script runs, open `index.js` and get started on the challenges.
+
+## The Lab
+
+The challenges of this lab are documented directly in the `index.js` as comments.
+
+## Extensions
+
+Exercises 9 and 10 are more complicated than most of the prior ones, and will likely require you to do some additional research and trial and error. 
