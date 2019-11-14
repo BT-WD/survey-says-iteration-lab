@@ -76,8 +76,13 @@ let motto = ["Don't overthink it.","I guess we'll find out. ","People have catch
 
 
 
-// 9. Add each person's name to the webpage inside of the div with the id of "names."
+// EXTENSIONS //
+// 9. Use the `.map()` method on the names array to create a new array called formattedNames which concatenates each name to an opening and closing `<h1>` tag.
 
 
 
-// 10. Create a bio for each person and add it to the webpage inside of the div with the id of "biographies." Please use all the information about each person in this bio. For example: "_____, better know as _____ to friends currently lives in _____. ______'s motto is _______, which they heard on their favorite TV show ________." Be creative in the bio you create.
+// 10. Add each person's name to the webpage inside of the div with the id of "names."
+
+
+
+// 11. Create a bio for each person and add it to the webpage inside of the div with the id of "biographies." Please use all the information about each person in this bio. For example: "_____, better know as _____ to friends currently lives in _____. ______'s motto is _______, which they heard on their favorite TV show ________." Be creative in the bio you create.

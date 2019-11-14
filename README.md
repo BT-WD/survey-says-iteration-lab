@@ -1,5 +1,7 @@
 # Survey Says - JavaScript Iteration Lab
 
+![Replit](example.png)
+
 ## The Goal
 
 The information in the database file attached here has results from a survey Jeff took of some of his friends. He's going to use that information to learn some things about the friends who answered the survey. For example:
@@ -9,8 +11,12 @@ The information in the database file attached here has results from a survey Jef
 
 One warning: these are real people, and real people don't always provide the easiest data to work with. Get ready for typos, unexpected blanks, and outright silliness (Max, for example, isn't 100 years old).
 
-In the challenge.js file, Jeff has written some questions he has. Use your knowledge of for loops and the map method to complete these challenge!
+In the `index.js` file, Jeff has written some questions he has. Use your knowledge of for loops, and the `.map()` array method to complete these challenge!
 
 ## Getting Started
 
-Open index.html in a web browser and open the console. Then, open the challenges.js and get started!
+If you're using an environment like Glitch that focuses on HTML, be sure to open index.html in a web browser and then also open the JavaScript console and confirm that you see "Script Running".
+
+If you're using an environment like Repl.it that focuses on scripting languages, you should be able to push "play" or "run" and see the "Script Running" confirmation in the terminal.
+
+Once you've confirmed that the script runs, open `index.js` and get started on the challenges.
