@@ -15,11 +15,11 @@ In the `index.js` file, Jeff has written some questions he has. Use your knowled
 
 ## Getting Started
 
-If you're using an environment like Glitch that focuses on HTML, be sure to open index.html in a web browser and then also open the JavaScript console and confirm that you see "Script Running".
+Load this repo in your codesandbox.io account and complete the mini project
+https://github.com/BT-WD/survey-says-iteration-lab.git
 
-If you're using an environment like Repl.it that focuses on scripting languages, you should be able to push "play" or "run" and see the "Script Running" confirmation in the terminal.
-
-Once you've confirmed that the script runs, open `index.js` and get started on the challenges.
+Use this link to upload a github repo into your codesandbox.io
+https://codesandbox.io/s/github
 
 ## The Lab
 
